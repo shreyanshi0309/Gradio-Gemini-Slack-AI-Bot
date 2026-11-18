@@ -39,7 +39,12 @@ This project integrates Gradio, Gemini AI, and Slack to create an intelligent AI
 
 ## 📸 Demo
 
-Screenshots and examples of the bot's responses will be added here.
+![ss-1 gradio bot](ss-1-gradio-bot.png)
+
+![ss-2 gradio bot](ss-2-gradio-bot.png)
+
+![ss-3 gradio bot](ss-3-gradio-bot.png)
+
 
 ## 🔮 Future Improvements
 
