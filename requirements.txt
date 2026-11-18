@@ -1,0 +1,6 @@
+gradio
+google-genai
+slack-bolt
+slack-sdk
+gradio-client
+python-dotenv
