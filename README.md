@@ -2,10 +2,13 @@
 
 An AI-powered Slack bot built using Python, Gradio, and Google's Gemini AI.
 
+![poster-1](poster-1.png)
+
 ## 🚀 Project Overview
 
 This project integrates Gradio, Gemini AI, and Slack to create an intelligent AI assistant capable of handling text-based conversations, mathematical queries, Python code generation, and image understanding.
 
+![poster-2](poster-2.png)
 ## ✨ Features
 
 - **Gradio Interface:** Interactive interface for communicating with Gemini AI.
