@@ -35,7 +35,7 @@ This project integrates Gradio, Gemini AI, and Slack to create an intelligent AI
 | Text Message Responses | Working |
 | Slack Image Downloading | Working |
 | Gemini Image Analysis | Tested Successfully |
-| Streaming Responses | In Progress |
+| Streaming Responses | Working |
 
 ## 📸 Demo
 
